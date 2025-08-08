@@ -26,4 +26,4 @@
 ```php artisan apptica:fetch {date}
 
 ## Пример
-```php artisan apptica:fetch 2025-08-01
+php artisan apptica:fetch 2025-08-01
